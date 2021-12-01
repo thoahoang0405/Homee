@@ -1,0 +1,37 @@
+.my-header{
+    padding: 0px;
+}
+img{
+    width: 150px;
+    height: 40px;
+}
+.my-nav{
+    margin-right: 0px;
+}
+.title-text{
+    font-size: 30px;
+    font-weight: 100;
+    margin-bottom: -12px;
+    
+}
+.img-css{
+    width :550px;
+    height: auto;
+}
+.img-fea{
+    width: 100%;
+    height: auto;
+}
+.text-caption{
+    font-size:12px;
+}
+.contact-name input{
+    width:100%;
+}
+.m-right{
+    margin-right: -24px;
+    
+}
+.text-sc{
+    font-size: 18px;
+}
